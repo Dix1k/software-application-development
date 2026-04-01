@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Software%20Application%20Development&fontSize=50&fontAlignY=35&desc=C%2B%2B%20•%20ПИНб-31%20•%20Учебные%20проекты&descAlignY=55&animation=twinkling" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Software%20Application%20Development&fontSize=50&fontAlignY=35&desc=CS•%20ПИНб-31%20•%20Учебные%20проекты&descAlignY=55&animation=twinkling" width="100%" alt="Header"/>
 </div>
 
 ## 👨‍💻 О себе
@@ -12,7 +12,7 @@
   
 </div>
 
-Репозиторий создан для выполнения лабораторных и практических работ по курсу **"Разработка программных приложений"**. Все работы выполняются на языке C#.
+Репозиторий создан для выполнения лабораторных и практических работ по курсу **"Разработка программных"**. Все работы выполняются на языке C#.
 
 ## 📂 Структура проекта
 
